@@ -30,7 +30,7 @@ The CoderHack Leaderboard API is a Spring Boot application designed to manage th
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/coderhack-leaderboard.git
+https://github.com/Shomik-Mitra/CoderHack-LeaderBoard.git
 ```
 
 ### Key Updates:
