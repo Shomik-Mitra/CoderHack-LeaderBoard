@@ -1,0 +1,16 @@
+server:
+  port: 8082
+  servlet:
+    context-path: /coderhack-leaderboard
+
+spring:
+  application:
+    name: CoderHack Leaderboard
+  data:
+    mongodb:
+      url: mongodb://localhost:27017/
+      database: coderhack
+
+logging:
+  level:
+    root: DEBUG
